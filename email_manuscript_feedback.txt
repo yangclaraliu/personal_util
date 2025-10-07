@@ -1,0 +1,52 @@
+Subject: Feedback on Your Manuscript - [Title of Professor's Manuscript]
+
+Dear Professor Tian,
+
+Thank you for sharing your manuscript with me and for trusting me to provide feedback. I should mention that I tend to provide quite detailed feedback with many comments - I hope this is helpful rather than overwhelming! Please feel free to focus on the points that are most relevant to you.
+
+Strengths:
+- Addresses an important knowledge gap in understanding the indirect effects of influenza vaccination on other respiratory viruses at the population level, which has significant public health implications.
+- Sophisticated methodological approach using empirical dynamic modeling (EDM) with convergent cross-mapping, multivariate forecasting, and scenario exploration to assess complex viral interactions, complemented by Bayesian hierarchical modeling with INLA for spatiotemporal analysis to examine how influenza vaccination coverage modulates the relationship between influenza and other respiratory viruses.
+- Comprehensive global dataset spanning 35 countries and 8 years (2016-2024) with detailed temporal separation of pre- and post-COVID-19 periods.
+
+Areas for Consideration:
+- The public health implications could be more clearly articulated - while the manuscript mentions that findings "will be important" in multiple places, it would be helpful to provide more specific guidance on how these results should inform vaccination strategies or public health decision-making.
+- While the methods may be considered causal inference in engineering or systems science, this approach is not commonly accepted in public health epidemiology as so - the manuscript uses strong causal language that may not be appropriate for this ecological study design.
+- Potential over-fitting and over-parameterisation issues - the model includes multiple seasonality controls (monthly random effects, temperature, humidity, IAV cross-basis, immunity, IAV proportion) and three cross-basis functions with high degrees of freedom, which may lead to collinearity and unstable estimates, potentially explaining why Figure 5 results are difficult to interpret.
+
+For the rest of my comments, please see the attached document.
+
+I hope these comments are helpful. Please feel free to reach out if you'd like me to elaborate on any of these points or discuss any questions you might have about my feedback.
+
+Thank you again for the opportunity to review your work. I look forward to seeing the final version.
+
+Best regards,
+[Your Full Name]
+[Your Title/Position]
+[Your Institution]
+[Your Email]
+
+---
+
+**Alternative shorter version:**
+
+Subject: Feedback on [Manuscript Title]
+
+Dear Professor Tian,
+
+Thank you for sharing your manuscript with me. I have reviewed it and am happy to provide the following feedback:
+
+**Strengths:**
+- [Key strength 1]
+- [Key strength 2]
+
+**Suggestions:**
+- [Main suggestion 1]
+- [Main suggestion 2]
+
+**Overall:** [Brief summary of your assessment]
+
+I hope this feedback is helpful. Please let me know if you need any clarification on these points.
+
+Best regards,
+[Your Name]
